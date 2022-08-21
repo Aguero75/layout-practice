@@ -1,1 +1,1 @@
-# layout-practice
+frontend mentor challange to practice layouts
